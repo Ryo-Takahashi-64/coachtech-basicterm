@@ -1,2 +1,2 @@
 # coachtech-basicterm
-coachtech-basicterm練習用のリモートリポジトリ
+coachtech-basicterm用のリモートリポジトリ
